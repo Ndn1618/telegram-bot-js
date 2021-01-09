@@ -4,8 +4,8 @@
   "description": "Telegram Bot for Dilbar Norqobulova channel",
   "main": "index.js",
   "dependencies": {
-    "botgram": "^2.0.1",
-    "figlet": "^1.2.0"
+    "botgram": "^2.2.0",
+    "figlet": "^1.5.0"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
